@@ -1,0 +1,24 @@
+C:\Users\msi\AppData\Local\Temporary Projects\Kriptografi\bin\Debug\Kriptografi.exe.config
+C:\Users\msi\AppData\Local\Temporary Projects\Kriptografi\bin\Debug\Kriptografi.exe
+C:\Users\msi\AppData\Local\Temporary Projects\Kriptografi\bin\Debug\Kriptografi.pdb
+C:\Users\msi\AppData\Local\Temporary Projects\Kriptografi\bin\Debug\Kriptografi.xml
+C:\Users\msi\AppData\Local\Temporary Projects\Kriptografi\obj\Debug\Kriptografi.vbprojAssemblyReference.cache
+C:\Users\msi\AppData\Local\Temporary Projects\Kriptografi\obj\Debug\Kriptografi.Form1.resources
+C:\Users\msi\AppData\Local\Temporary Projects\Kriptografi\obj\Debug\Kriptografi.Resources.resources
+C:\Users\msi\AppData\Local\Temporary Projects\Kriptografi\obj\Debug\Kriptografi.vbproj.GenerateResource.cache
+C:\Users\msi\AppData\Local\Temporary Projects\Kriptografi\obj\Debug\Kriptografi.vbproj.CoreCompileInputs.cache
+C:\Users\msi\AppData\Local\Temporary Projects\Kriptografi\obj\Debug\Kriptografi.exe
+C:\Users\msi\AppData\Local\Temporary Projects\Kriptografi\obj\Debug\Kriptografi.xml
+C:\Users\msi\AppData\Local\Temporary Projects\Kriptografi\obj\Debug\Kriptografi.pdb
+C:\Users\msi\Documents\Kriptografi\Kriptografi\bin\Debug\Kriptografi.exe.config
+C:\Users\msi\Documents\Kriptografi\Kriptografi\bin\Debug\Kriptografi.exe
+C:\Users\msi\Documents\Kriptografi\Kriptografi\bin\Debug\Kriptografi.pdb
+C:\Users\msi\Documents\Kriptografi\Kriptografi\bin\Debug\Kriptografi.xml
+C:\Users\msi\Documents\Kriptografi\Kriptografi\obj\Debug\Kriptografi.vbprojAssemblyReference.cache
+C:\Users\msi\Documents\Kriptografi\Kriptografi\obj\Debug\Kriptografi.Form1.resources
+C:\Users\msi\Documents\Kriptografi\Kriptografi\obj\Debug\Kriptografi.Resources.resources
+C:\Users\msi\Documents\Kriptografi\Kriptografi\obj\Debug\Kriptografi.vbproj.GenerateResource.cache
+C:\Users\msi\Documents\Kriptografi\Kriptografi\obj\Debug\Kriptografi.vbproj.CoreCompileInputs.cache
+C:\Users\msi\Documents\Kriptografi\Kriptografi\obj\Debug\Kriptografi.exe
+C:\Users\msi\Documents\Kriptografi\Kriptografi\obj\Debug\Kriptografi.xml
+C:\Users\msi\Documents\Kriptografi\Kriptografi\obj\Debug\Kriptografi.pdb
